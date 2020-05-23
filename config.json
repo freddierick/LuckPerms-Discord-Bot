@@ -1,0 +1,16 @@
+{
+    "token": "<enter your discord bot token you can find out how to get one here - https://www.writebots.com/discord-bot-token/>",
+
+    "prefix": "the command you use to summon your bot i.e. R! orR?",
+
+    "StaffRole" : "the role id of staff",
+    "HigherStaffRole" : "the roll id of staff you want to be-able to edit players roles",
+
+    "SQLlogin" : {
+
+        "host": "database address",
+        "user": "database username",
+        "password": "password",
+        "database": "database name"
+    }
+}
